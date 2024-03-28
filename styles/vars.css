@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Young';
+    src: url('../assets/fonts/young-serif/YoungSerif-Regular.ttf');
+}
+@font-face {
+    font-family: 'Outfit';
+    src: url('../assets/fonts/outfit/Outfit-VariableFont_wght.ttf');
+}
+
+:root{
+    --cor01: hsl(0, 0%, 100%);
+    --cor02: hsl(330, 100%, 98%);
+    --cor03: hsl(30, 54%, 90%);
+    --cor04: hsl(30, 18%, 87%);
+    --cor05: hsl(30, 10%, 34%);
+    --cor06: hsl(24, 5%, 18%);
+    --cor07: hsl(14, 45%, 36%);
+    --cor08: hsl(332, 51%, 32%);
+
+    --font01: 'Young';
+    --font02: 'Outfit';
+}

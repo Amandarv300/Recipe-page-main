@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: var(--cor03);
+}
+main{
+    background-color: var(--cor01);
+    max-width: 580px;
+    min-height: 800px;
+    margin: auto;
+    margin-top: 110px;
+    margin-bottom: 110px;
+    padding: 40px;
+    border-radius: 20px;
+}
+img{
+    width: 580px;
+    height: 280px;
+    border-radius: 12px;
+}
+h1{
+    font-family: var(--font01);
+    font-size: 2.3em;
+    font-weight: 400;
+    color: var(--cor06);
+    padding: 20px 0px;
+}
+p{
+    font-family: var(--font02);
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cor05);
+}
+.preparation{
+    background-color: var(--cor02);
+    margin: 20px 0px;
+    padding: 20px;
+    border-radius: 15px;
+}
+h3{
+    font-family: var(--font02);
+    color: var(--cor08);
+}
+ul, ol{
+    padding: 10px 25px;
+}
+li{
+    font-family: var(--font02);
+    font-weight: 400;
+    color: var(--cor05);
+    padding: 5px 15px;
+}
+h2{
+    font-family: var(--font01);
+    font-weight: 400;
+    color: var(--cor07);
+    padding: 10px 0px;
+}
+hr{
+    margin: 20px 0px;
+    border: 1px solid var(--cor04);
+}
+section p{
+    padding: 10px 0px;
+}
+table{
+    width: 580px;
+    padding: 10px 28px;
+    border-collapse: collapse;
+}
+td{
+    font-family: var(--font02);
+    font-weight: 400;
+    color: var(--cor05);
+    border-bottom: 1px solid var(--cor04);
+    padding: 10px 30px;
+}
+.num{
+    color: var(--cor07);
+    font-weight: 700;
+}
+.attribution {
+    font-size: 12px; 
+    color: var(--cor05);
+    text-align: center; 
+}
+.attribution a {
+    color: var(--cor05);
+    text-decoration: none;
+}
+a:hover{
+    color: var(--cor08);
+    text-decoration: underline;
+}
