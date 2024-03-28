@@ -8,7 +8,6 @@ body{
 main{
     background-color: var(--cor01);
     max-width: 580px;
-    min-height: 800px;
     margin: auto;
     margin-top: 110px;
     margin-bottom: 110px;
