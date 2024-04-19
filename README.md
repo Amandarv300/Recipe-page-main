@@ -10,7 +10,7 @@ Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codif
 ### Construído com
 
 - Marcação HTML5 semântica
-- Caixa flexível
+- Media Queries
 - Grade CSS
 
 
