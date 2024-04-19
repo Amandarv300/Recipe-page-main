@@ -42,8 +42,10 @@ p{
 .preparation li::marker{
     color: var(--cor08);
 }
-h3{
+.preparation h2{
     font-family: var(--font02);
+    font-size: 1.17em;
+    font-weight: bold;
     color: var(--cor08);
 }
 ul, ol{
